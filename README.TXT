@@ -35,7 +35,6 @@ Finally, to run the program just type the following line:
 swift wordcount.swift
 
 
-
 SWIFT 16 NODES
 
 This is practically the same than in one node. Just change the downloaded data from the tutorial that now is from
@@ -45,7 +44,7 @@ It is required to repeat the same steps of create the folder that will contain a
 
 In this case, the exported path changes but just because the directories are not the same so it is going to be like this:
 
-$ export PATH=/path/to/swift-trunk/bin:$PATH no me acuerdo del path que había que poner mas que nada porq no se que es el Swift-trunk, intuyo q es el directorio donde esta todo pero…por si las moscas dimelo que tu esto lo tienes bien memorisao!
+$ export PATH=/path/to/swift-trunk/bin:$PATH
 
 It is needed to download the 10 GB text file again and Split it with the same command than before but changing the path, so now it is:
 
